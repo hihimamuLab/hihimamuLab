@@ -2,7 +2,7 @@
 
 ───hihimamuの所在───
 
-**- MyDiscordServer -**[https://discord.gg/SEDFAfppka](https://discord.gg/SEDFAfppka)
+**- <h1><img src="https://github.com/hihimamuLab/002.png" style="width:21px"> Mets-resourcepack</h1>MyDiscordServer -**[https://discord.gg/SEDFAfppka](https://discord.gg/SEDFAfppka)
 
 **- MyTwitter -**[https://twitter.com/MamuHihi](https://twitter.com/MamuHihi)
 
