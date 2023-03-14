@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://github.com/hihimamuLab">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="hihimamuLab" />
+    <img src="https://komarev.com/ghpvc/?username=hihimamuLab" alt="hihimamuLab" />
   </a>
   <a href="https://github.com/hihimamuLab">
     <img height="20" src="https://img.shields.io/twitter/follow/hihimamuLab?label=Twitter&logo=twitter&style=flat" />
