@@ -29,9 +29,6 @@
   <a href="https://github.com/hihimamuLab">
     <img height="20" src="https://img.shields.io/github/followers/hihimamuLab?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://github.com/hihimamuLab">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hihimamuLab&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
