@@ -21,5 +21,5 @@
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)
 </p>
