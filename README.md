@@ -24,7 +24,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hihimamuLab&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hihimamuLab&theme=2077)
+  ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hihimamuLab&theme=radical)
   
   <h3 align="left">A passionate frontend developer from India</h3>
 
@@ -38,5 +38,5 @@
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
 <h3 align="left">What I made:</h3>
-<a href="https://github.com/hihimamuLab/NameMaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hihimamuLab&repo=mini-met&theme=dark"  height="128"></a>
+<a href="https://github.com/hihimamuLab/NameMaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hihimamuLab&repo=mini-met&theme=radical"  height="128"></a>
 </p>
