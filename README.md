@@ -23,7 +23,7 @@
   <a href="https://github.com/hihimamuLab">
     <img src="https://komarev.com/ghpvc/?username=hihimamuLab" alt="hihimamuLab" />
   </a>
-  <a href="https://github.com/hihimamuLab">
+  <a href="https://twitter.com/MamuHihi">
     <img height="20" src="https://img.shields.io/twitter/follow/hihimamuLab?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/hihimamuLab">
