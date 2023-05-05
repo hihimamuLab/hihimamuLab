@@ -1,7 +1,7 @@
 # やぁ、はじめまして！ 👋
 
 
-<h3 align="center">プログラマもどき</h3>
+<h3 align="left">プログラマもどき</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
