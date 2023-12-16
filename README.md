@@ -31,7 +31,7 @@
   
   ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hihimamuLab&theme=radical)
 
-　[![wakatime](https://wakatime.com/badge/user/018c6fd8-19c0-485f-98c2-8284c2db57d5.svg)](https://wakatime.com/@018c6fd8-19c0-485f-98c2-8284c2db57d5)
+　[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hihimamu&layout=compact&theme=tokyonight)](https://wakatime.com/@hihimamu)
 
 <h3 align="left">What I made:</h3>
 <a href="https://github.com/hihimamuLab/NameMaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hihimamuLab&repo=NameMaker&theme=radical"  height="128"></a><a href="https://github.com/hihimamuLab/CNN-Shape"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hihimamuLab&repo=CNN-Shape&theme=radical"  height="128"></a>
