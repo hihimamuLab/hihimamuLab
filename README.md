@@ -33,6 +33,8 @@
   
   ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hihimamuLab&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">What I made:</h3>
 <a href="https://github.com/hihimamuLab/WALORANT-RPG-Datapack.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hihimamuLab&repo=WALORANT-RPG-Datapack&theme=radical"  height="128"></a><a href="https://github.com/hihimamuLab/WALORANT-RPG-Resource-pack.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hihimamuLab&repo=WALORANT-RPG-Resource-pack&theme=radical"  height="128"></a>
 </p>
