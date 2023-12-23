@@ -21,12 +21,7 @@
   <a href="https://github.com/hihimamuLab">
     <img src="https://komarev.com/ghpvc/?username=hihimamuLab" alt="hihimamuLab" />
   </a>
-  <a href="https://twitter.com/MamuHihi">
-    <img height="20" src="https://img.shields.io/twitter/follow/hihimamuLab?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/hihimamuLab">
-    <img height="20" src="https://img.shields.io/github/followers/hihimamuLab?label=follow&logo=github&style=flat" />
-  </a>
+   [![wakatime](https://wakatime.com/badge/user/018c6fd8-19c0-485f-98c2-8284c2db57d5.svg)](https://wakatime.com/@018c6fd8-19c0-485f-98c2-8284c2db57d5)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)
   [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hihimamu&layout=compact&theme=tokyonight)](https://wakatime.com/@hihimamu)<br>
