@@ -21,6 +21,7 @@
   <a href="https://github.com/hihimamuLab">
     <img src="https://komarev.com/ghpvc/?username=hihimamuLab" alt="hihimamuLab" />
   </a>
+  
    [![wakatime](https://wakatime.com/badge/user/018c6fd8-19c0-485f-98c2-8284c2db57d5.svg)](https://wakatime.com/@018c6fd8-19c0-485f-98c2-8284c2db57d5)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)
