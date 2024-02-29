@@ -1,7 +1,4 @@
-# やぁ、はじめまして！ 👋
-
-
-<h3 align="left">プログラマもどき</h3>
+# Hi! Nice to meat you.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=ADBAC7&center=true&vCenter=true&width=435&height=80&lines=Hi%F0%9F%91%8B!++I'm+hihimamu.dev!!;Nice+to+meet+you!!&duration=2000)](https://git.io/typing-svg)
 
