@@ -4,7 +4,7 @@
 - Rust: 1 year
 - Python: 2 years
 
-<img src="https://wakatime.com/share/@hihimamu/4ab42684-14c7-4d26-8b2a-d31d1f39ac4b.svg" width="350"> <img src="https://wakatime.com/share/@hihimamu/387128d4-e07e-4984-8169-668245e84fe9.svg" width="350">
+<img src="https://wakatime.com/share/@hihimamu/a38c0923-d4ac-4990-9fef-e9147a450a76.svg" width="40%"> <img src="https://wakatime.com/share/@hihimamu/7f485e2a-63f6-40b9-8299-a6fbd5282e24.svg" width="40%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)<br>
 
