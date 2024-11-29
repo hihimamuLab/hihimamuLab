@@ -9,13 +9,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)<br>
 
 ## Contacts
-![Static Badge](https://img.shields.io/badge/_-%235865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=100) **hihimamu**<br>
-![Static Badge](https://img.shields.io/badge/_-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=100) **hihimamug14@gmail.com**<br>
-![Static Badge](https://img.shields.io/badge/_-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=100) **tokunagasun**<br>
-![Static Badge](https://img.shields.io/badge/_-%23000000?style=for-the-badge&logo=x&logoColor=white&logoSize=100) **hihimamu2**<br>
-![Static Badge](https://img.shields.io/badge/-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=gray&logoSize=100) **Hihimamu**<br>
-![Static Badge](https://img.shields.io/badge/_-%2355C500?style=for-the-badge&logo=qiita&logoColor=white&logoSize=100) **@hihimamu**<br>
-![Static Badge](https://img.shields.io/badge/_-%233EA8FF?style=for-the-badge&logo=zenn&logoColor=white&logoSize=100) **@hihimamu**<br>
+![Static Badge](https://img.shields.io/badge/_-%235865F2?style=flat&logo=discord&logoColor=white&logoSize=100) **hihimamu**<br>
+![Static Badge](https://img.shields.io/badge/_-%23EA4335?style=flat&logo=gmail&logoColor=white&logoSize=100) **hihimamug14@gmail.com**<br>
+![Static Badge](https://img.shields.io/badge/_-%23E4405F?style=flat&logo=instagram&logoColor=white&logoSize=100) **tokunagasun**<br>
+![Static Badge](https://img.shields.io/badge/_-%23000000?style=flat&logo=x&logoColor=white&logoSize=100) **hihimamu2**<br>
+![Static Badge](https://img.shields.io/badge/-%23FFA116?style=flat&logo=leetcode&logoColor=gray&logoSize=100) **Hihimamu**<br>
+![Static Badge](https://img.shields.io/badge/_-%2355C500?style=flat&logo=qiita&logoColor=white&logoSize=100) **@hihimamu**<br>
+![Static Badge](https://img.shields.io/badge/_-%233EA8FF?style=flat&logo=zenn&logoColor=white&logoSize=100) **@hihimamu**<br>
 
 ## Skills
 ![Static Badge](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Static Badge](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Static Badge](https://img.shields.io/badge/vscode-%23005FAD?style=for-the-badge&logoColor=white&logoSize=100) ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Static Badge](https://img.shields.io/badge/archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Static Badge](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) ![Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/nix-%235277C3?style=for-the-badge&logo=nixos&logoColor=white) ![Static Badge](https://img.shields.io/badge/curl-%23073551?style=for-the-badge&logo=curl&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto)
