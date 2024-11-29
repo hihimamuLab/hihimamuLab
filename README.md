@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)<br>
 
 ## Contacts
-[![Static Badge](https://img.shields.io/badge/_-%235865F2?style=flat&logo=discord&logoColor=white&logoSize=100)](https://discord.com/users/1298941002274312232) **hihimamu**<br>
+[![Static Badge](https://img.shields.io/badge/_-%235865F2?style=flat&logo=discord&logoColor=white&logoSize=100)](https://discordapp.com/users/1298941002274312232) **hihimamu**<br>
 ![Static Badge](https://img.shields.io/badge/_-%23EA4335?style=flat&logo=gmail&logoColor=white&logoSize=100) **hihimamug14@gmail.com**<br>
 [![Static Badge](https://img.shields.io/badge/_-%23E4405F?style=flat&logo=instagram&logoColor=white&logoSize=100)](https://www.instagram.com/h1himamu/ 
 ) **h1himamu**<br>
