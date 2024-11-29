@@ -6,7 +6,7 @@
 
 <img src="https://wakatime.com/share/@hihimamu/a38c0923-d4ac-4990-9fef-e9147a450a76.svg" width="48%"> <img src="https://wakatime.com/share/@hihimamu/7f485e2a-63f6-40b9-8299-a6fbd5282e24.svg" width="48%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical)<br>
+<img src="https://github-readme-stats.vercel.app/api?username=hihimamuLab&show_icons=true&theme=radical" width="48%">
 
 ## Contacts
 [![Static Badge](https://img.shields.io/badge/_-%235865F2?style=flat&logo=discord&logoColor=white&logoSize=100)](https://discordapp.com/users/1298941002274312232) **hihimamu**<br>
