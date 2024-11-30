@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/_-%23EA4335?style=flat&logo=gmail&logoColor=white&logoSize=100) **hihimamug14@gmail.com**<br>
 [![Static Badge](https://img.shields.io/badge/_-%23E4405F?style=flat&logo=instagram&logoColor=white&logoSize=100)](https://www.instagram.com/h1himamu/ 
 ) **h1himamu**<br>
-[![Static Badge](https://img.shields.io/badge/_-%23000000?style=flat&logo=x&logoColor=white&logoSize=100)](https://x.com/hihi_mamu) **hihimamu2**<br>
+[![Static Badge](https://img.shields.io/badge/_-%23000000?style=flat&logo=x&logoColor=white&logoSize=100)](https://x.com/hihi_mamu) **hihi_mamu**<br>
 [![Static Badge](https://img.shields.io/badge/-%23FFA116?style=flat&logo=leetcode&logoColor=gray&logoSize=100)](https://leetcode.com/u/qAAyRtBqL5/) **Hihimamu**<br>
 [![Static Badge](https://img.shields.io/badge/_-%2355C500?style=flat&logo=qiita&logoColor=white&logoSize=100)](https://qiita.com/hihimamu) **hihimamu**<br>
 [![Static Badge](https://img.shields.io/badge/_-%233EA8FF?style=flat&logo=zenn&logoColor=white&logoSize=100)](https://zenn.dev/hihimamu) **hihimamu**<br>
