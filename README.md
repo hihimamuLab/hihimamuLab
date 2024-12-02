@@ -4,7 +4,7 @@
 - Rust: 1 year
 - Python: 2 years
 
-<img src="https://wakatime.com/share/@hihimamu/a38c0923-d4ac-4990-9fef-e9147a450a76.svg" width="48%"> <img src="https://wakatime.com/share/@hihimamu/7f485e2a-63f6-40b9-8299-a6fbd5282e24.svg" width="48%">
+<img src="https://wakatime.com/share/@hihimamu/a38c0923-d4ac-4990-9fef-e9147a450a76.svg" width="48%"> <img src="https://wakatime.com/share/@hihimamu/0d85219a-1cc3-47c4-b6e5-8b36361015da.svg" width="48%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AsahiTokunaga&show_icons=true&theme=radical" width="80%">
 
